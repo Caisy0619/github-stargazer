@@ -1,0 +1,348 @@
+{
+  "meta": {
+    "name": "GitHub 每周情报看板",
+    "version": "0.5",
+    "note": "武装Agent拆6子类(具体装备为主+合集目录)；综合加艺术创作(图片/音乐)；AI学习子类改名"
+  },
+  "categories": [
+    {
+      "id": "ai-coding",
+      "name": "AI 编程工具",
+      "group": "AI 编程",
+      "default_open": true,
+      "repos": [
+        "openai/codex",
+        "anthropics/claude-code",
+        "aider-ai/aider",
+        "OpenHands/OpenHands",
+        "continuedev/continue",
+        "TabbyML/tabby",
+        "google-gemini/gemini-cli",
+        "cline/cline",
+        "NousResearch/hermes-agent",
+        "openclaw/openclaw",
+        "github/github-mcp-server"
+      ],
+      "search_queries": [
+        "topic:ai-coding stars:>2000",
+        "topic:copilot stars:>2000",
+        "topic:code-assistant stars:>2000",
+        "topic:mcp-server github stars:>20",
+        "topic:mcp-server git stars:>20"
+      ]
+    },
+    {
+      "id": "llm-models",
+      "name": "开源大模型",
+      "group": "大模型",
+      "default_open": true,
+      "repos": [
+        "deepseek-ai/DeepSeek-V3",
+        "QwenLM/Qwen3",
+        "moonshotai/Kimi-K2",
+        "meta-llama/llama-models",
+        "google-deepmind/gemma",
+        "THUDM/GLM",
+        "mistralai/mistral-inference",
+        "01-ai/Yi",
+        "allenai/OLMo",
+        "MiniMax-AI/MiniMax-M1",
+        "internlm/InternLM"
+      ],
+      "search_queries": [
+        "topic:llm stars:>4000",
+        "topic:large-language-model stars:>2000",
+        "topic:foundation-model stars:>1000"
+      ]
+    },
+    {
+      "id": "llm-inference",
+      "name": "推理引擎与工具",
+      "group": "大模型",
+      "default_open": true,
+      "repos": [
+        "ggml-org/llama.cpp",
+        "ollama/ollama",
+        "vllm-project/vllm",
+        "huggingface/transformers",
+        "unslothai/unsloth",
+        "sgl-project/sglang",
+        "ml-explore/mlx",
+        "deepspeedai/DeepSpeed"
+      ],
+      "search_queries": [
+        "topic:local-llm stars:>1500",
+        "topic:gguf stars:>1500",
+        "topic:llm-inference stars:>1500"
+      ]
+    },
+    {
+      "id": "ai-apps",
+      "name": "AI 应用",
+      "group": "AI 应用",
+      "default_open": true,
+      "repos": [
+        "open-webui/open-webui",
+        "langchain-ai/langchain",
+        "run-llama/llama_index",
+        "langgenius/dify",
+        "n8n-io/n8n",
+        "FlowiseAI/Flowise",
+        "langflow-ai/langflow",
+        "crewAIInc/crewAI",
+        "Significant-Gravitas/AutoGPT",
+        "microsoft/autogen",
+        "Comfy-Org/ComfyUI",
+        "oobabooga/textgen",
+        "microsoft/playwright-mcp",
+        "makenotion/notion-mcp-server",
+        "MarkusPfundstein/mcp-obsidian",
+        "supabase/mcp",
+        "exa-labs/exa-mcp-server",
+        "tavily-ai/tavily-mcp",
+        "modelcontextprotocol/servers",
+        "modelcontextprotocol/registry",
+        "punkpeye/awesome-mcp-servers",
+        "hesreallyhim/awesome-claude-code",
+        "NousResearch/hermes-agent"
+      ],
+      "search_queries": [
+        "topic:ai-agent stars:>5000",
+        "topic:rag stars:>2000",
+        "topic:llmops stars:>2000",
+        "topic:mcp stars:>500",
+        "topic:mcp-server stars:>100",
+        "topic:playwright-mcp stars:>50",
+        "topic:mcp-server notion stars:>20",
+        "topic:mcp-server database stars:>20"
+      ]
+    },
+    {
+      "id": "ai-learn-nonit",
+      "name": "非 IT 背景",
+      "group": "AI 学习",
+      "default_open": true,
+      "repos": [
+        "microsoft/generative-ai-for-beginners",
+        "microsoft/AI-For-Beginners",
+        "datawhalechina/llm-cookbook",
+        "datawhalechina/self-llm",
+        "datawhalechina/llm-universe",
+        "dair-ai/Prompt-Engineering-Guide"
+      ],
+      "search_queries": [
+        "topic:prompt-engineering stars:>2000",
+        "topic:ai-for-beginners stars:>500"
+      ]
+    },
+    {
+      "id": "ai-learn-it",
+      "name": "IT相关背景",
+      "group": "AI 学习",
+      "default_open": true,
+      "repos": [
+        "karpathy/nanoGPT",
+        "karpathy/llm.c",
+        "karpathy/minGPT",
+        "rasbt/LLMs-from-scratch",
+        "fastai/fastbook",
+        "huggingface/course",
+        "ageron/handson-ml3",
+        "mlabonne/llm-course"
+      ],
+      "search_queries": [
+        "topic:deep-learning stars:>8000",
+        "topic:machine-learning stars:>8000"
+      ]
+    },
+    {
+      "id": "hr",
+      "name": "HR 系统",
+      "group": "行业提效",
+      "default_open": true,
+      "repos": [
+        "orangehrm/orangehrm",
+        "horilla/horilla-hr",
+        "frappe/hrms",
+        "odoo/odoo"
+      ],
+      "search_queries": [
+        "topic:hrm stars:>300",
+        "topic:hrms stars:>300",
+        "topic:human-resources stars:>300"
+      ]
+    },
+    {
+      "id": "sales-crm",
+      "name": "销售 CRM",
+      "group": "行业提效",
+      "default_open": true,
+      "repos": [
+        "twentyhq/twenty",
+        "SuiteCRM/SuiteCRM",
+        "espocrm/espocrm",
+        "monicahq/monica"
+      ],
+      "search_queries": [
+        "topic:crm stars:>800"
+      ]
+    },
+    {
+      "id": "logistics",
+      "name": "物流供应链",
+      "group": "行业提效",
+      "default_open": true,
+      "repos": [
+        "openboxes/openboxes",
+        "Project-OSRM/osrm-backend",
+        "VROOM-Project/vroom",
+        "valhalla/valhalla"
+      ],
+      "search_queries": [
+        "topic:logistics stars:>300",
+        "topic:supply-chain stars:>300",
+        "topic:routing stars:>500"
+      ]
+    },
+    {
+      "id": "medical",
+      "name": "医疗行业",
+      "group": "行业提效",
+      "default_open": false,
+      "repos": [
+        "openemr/openemr",
+        "openmrs/openmrs-core"
+      ],
+      "search_queries": [
+        "topic:emr stars:>200",
+        "topic:ehr stars:>200",
+        "topic:electronic-health-records stars:>200"
+      ]
+    },
+    {
+      "id": "office",
+      "name": "办公工具",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "ONLYOFFICE/DocumentServer",
+        "Stirling-Tools/Stirling-PDF",
+        "localsend/localsend",
+        "ShareX/ShareX",
+        "excalidraw/excalidraw",
+        "jgraph/drawio",
+        "handbrake/HandBrake",
+        "hluk/CopyQ",
+        "tesseract-ocr/tesseract"
+      ],
+      "search_queries": [
+        "topic:pdf stars:>3000",
+        "topic:screenshot stars:>500",
+        "topic:clipboard stars:>500"
+      ]
+    },
+    {
+      "id": "life",
+      "name": "生活效率",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "bitwarden/server",
+        "syncthing/syncthing",
+        "home-assistant/core",
+        "immich-app/immich"
+      ],
+      "search_queries": [
+        "topic:home-automation stars:>1000",
+        "topic:password-manager stars:>800",
+        "topic:file-sync stars:>800"
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "记账理财",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "frappe/erpnext",
+        "akaunting/akaunting",
+        "invoiceninja/invoiceninja",
+        "firefly-iii/firefly-iii",
+        "ghostfolio/ghostfolio",
+        "beancount/beancount",
+        "maybe-finance/maybe",
+        "actualbudget/actual"
+      ],
+      "search_queries": [
+        "topic:accounting stars:>800",
+        "topic:bookkeeping stars:>800",
+        "topic:personal-finance stars:>800",
+        "topic:budgeting stars:>800",
+        "topic:invoice stars:>500"
+      ]
+    },
+    {
+      "id": "notes",
+      "name": "笔记知识管理",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "laurent22/joplin",
+        "toeverything/AFFiNE",
+        "logseq/logseq",
+        "AppFlowy-IO/AppFlowy",
+        "siyuan-note/siyuan",
+        "TriliumNext/trilium"
+      ],
+      "search_queries": [
+        "topic:note-taking stars:>1500",
+        "topic:knowledge-management stars:>1500"
+      ]
+    },
+    {
+      "id": "education",
+      "name": "家庭教育",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "ankitects/anki",
+        "3b1b/manim",
+        "ManimCommunity/manim",
+        "scratchfoundation/scratch-gui",
+        "RaspberryPiFoundation/blockly",
+        "gcompris/GCompris-qt",
+        "OpenBoard-org/OpenBoard",
+        "moodle/moodle"
+      ],
+      "search_queries": [
+        "topic:flashcards stars:>300",
+        "topic:spaced-repetition stars:>300",
+        "topic:kids-education stars:>500"
+      ]
+    },
+    {
+      "id": "art-media",
+      "name": "影音创作",
+      "group": "工作提效/生活创意",
+      "default_open": true,
+      "repos": [
+        "AUTOMATIC1111/stable-diffusion-webui",
+        "lllyasviel/Fooocus",
+        "upscayl/upscayl",
+        "darktable-org/darktable",
+        "facebookresearch/audiocraft",
+        "fishaudio/fish-speech",
+        "RVC-Project/Retrieval-based-Voice-Conversion-WebUI",
+        "openai/whisper",
+        "facebookresearch/demucs",
+        "audacity/audacity"
+      ],
+      "search_queries": [
+        "topic:stable-diffusion stars:>3000",
+        "topic:image-generation stars:>1000",
+        "topic:text-to-speech stars:>1000",
+        "topic:music-generation stars:>300"
+      ]
+    }
+  ]
+}
