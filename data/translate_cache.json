@@ -1191,5 +1191,18 @@
  "rytilahti/python-miio": "控制小米智能设备的工具和命令行程序，可以让你用代码操作小米家电。",
  "1technophile/OpenMQTTGateway": "给ESP8266/ESP32开发板用的网关，让它能收发射频、红外、蓝牙信号，统一控制老式电器。",
  "domoticz/domoticz": "免费开源的智能家居系统，能连接Z-Wave、Zigbee、MQTT等150多种设备，自己搭建家庭自动化。",
- "crankyoldgit/IRremoteESP8266": "ESP8266/ESP32的红外遥控库，能发送和接收多种红外协议，用来DIY万能遥控器。"
+ "crankyoldgit/IRremoteESP8266": "ESP8266/ESP32的红外遥控库，能发送和接收多种红外协议，用来DIY万能遥控器。",
+ "Bevel-Software/Hexis": "Hexis 是一个让普通人也能自己部署和掌控 AI 助手后台的工具，用来统一管理 AI 的技能、工具、记忆和身份权限。",
+ "wlsdks/ontology-atlas": "ontology-atlas 可以把软件项目的结构和影响范围用普通人也能看懂的共享文档画出来，让大家明白代码在做什么、改哪里会有什么影响。",
+ "samchon/nestia": "nestia 是一个帮程序员开发后端服务和 AI 聊天机器人的辅助工具，能让这类应用搭建得更省事。",
+ "QwenAudio/Fun-ASR": "Fun-ASR 是一套开源的语音转文字工具，特别擅长识别中文、方言和带口音的话，普通人可以用它把录音和语音消息自动变成文字。",
+ "0xShug0/audio.cpp": "audio.cpp 是一个能在本地运行多种音频 AI 功能的引擎，支持语音合成、语音识别、人声分离、变声和音乐生成，普通人可以在自己电脑上离线处理音频。",
+ "tt-a1i/archify": "archify 是一个给 AI 用的画图技能，能自动生成漂亮的架构图、流程图、时序图等，并输出为可直接查看和分享的网页文件。",
+ "omacom/omarchy": "omarchy 是一个界面现代又好看的 Linux 操作系统，装好就能得到一个精心配置过的电脑环境，适合想省事的普通用户。",
+ "anthropics/claude-plugins-official": "这个项目是 Anthropic 官方维护的 Claude Code 插件目录，里面有高质量插件，普通用户可以像装应用一样给 Claude 编程助手扩展功能。",
+ "K-Dense-AI/scientific-agent-skills": "scientific-agent-skills 是一套把 AI 变成“AI 科学家”的现成技能库，包含 165 个验证过的科研工具，科研人员可以直接让 AI 帮自己查资料和分析。",
+ "ConardLi/garden-skills": "garden-skills 是 ConardLi 开源的 AI 技能合集，涵盖网页设计、知识检索、图片生成等功能，普通人可以给 AI 装上这些技能来干活。",
+ "google/googletest": "googletest 是 Google 开源的 C++ 代码测试工具，程序员用它来自动验证代码是否正常，普通人不直接使用它。",
+ "THU-MAIC/OpenMAIC": "OpenMAIC 是一个开源的“多智能体互动教室”，一键就能进入沉浸式课堂，里面有多个 AI 角色陪你学习，普通人可以把它当作私人学习班。",
+ "tinyhumansai/openhuman": "openhuman 是打造个人 AI 超级助手的工具，它会在本地记住你的生活信息，并调度各种 AI 小助手帮你完成复杂任务，普通人可用它创造专属的 AI 大脑。"
 }
