@@ -1270,5 +1270,19 @@
  "cloudflare/security-audit-skill": "给编程 AI 助手用的安全审计技能，能分阶段检查代码并给出可独立验证、方便机器读取的问题清单，普通人尤其开发者可用它让 AI 帮忙做代码安全体检。",
  "cloudflare/quiche": "Cloudflare 的新一代网络协议 QUIC 和 HTTP/3 实现，普通人不直接使用，开发者可用它让网站和应用连接更快、更稳。",
  "TencentCloud/Octop": "一个更聪明的、可自己搭建的 AI 助手，支持多用户和多智能体，普通人能在自己的服务器或电脑上搭一个多人共用的 AI 助手。",
- "FxEmbed/FxEmbed": "修复 X/Twitter 和 Bluesky 链接在聊天软件里的预览，让 Discord、Telegram 等能显示多图、视频、投票和翻译，普通人可用它让分享的帖子正常展开。"
+ "FxEmbed/FxEmbed": "修复 X/Twitter 和 Bluesky 链接在聊天软件里的预览，让 Discord、Telegram 等能显示多图、视频、投票和翻译，普通人可用它让分享的帖子正常展开。",
+ "pipeshub-ai/pipeshub-ai": "把公司里散落在 Slack、网盘、Jira、GitHub、微软 365 等 40 多个工具里的资料连起来，喂给 AI 助手，普通人也能直接问 AI 查公司内部知识。",
+ "shashankswe2020-ux/whoop-mcp": "让 Claude 等 AI 助手读取你的 WHOOP 手环健康数据，帮你分析恢复、睡眠、心率变异、压力和锻炼情况，普通人可以用它更懂自己的身体状态。",
+ "jtaoufik/tiger": "一个免费开源的软件接口调试工具，可以当成本地版 Postman 来用，普通人如果做网站或 App 开发，可以用它测试和整理接口请求。",
+ "nobodywho-ooo/nobodywho": "一个能在各种设备上本地运行 AI 大模型的引擎，普通人可以在自己电脑上离线使用 AI，不用把数据传到网上。",
+ "codewhale-hq/Codewhale": "一个在终端里运行的开源 AI 编程助手，普通人可以让它帮忙写代码、改代码和完成编程任务。",
+ "Twigpine/openclaude": "一个能在各种地方运行、接入各种工具的 AI 助手项目，普通人可以用它更自由地让 AI 帮自己处理事情。",
+ "openbq-org/OpenBB": "一个开放的金融数据平台，分析师、量化人员和 AI 助手都能用，普通人可以用它查市场数据、做投资研究。",
+ "Effect-TS/effect": "一个帮助程序员用 TypeScript 构建稳定正式产品的工具库，普通人不会直接用，但能间接用到更少出错的软件。",
+ "tile-ai/tilelang": "一种专门简化高性能计算程序开发的编程语言，主要给程序员写 GPU 等芯片上的加速程序，普通人不会直接用，但能让 AI、游戏等应用跑得更快。",
+ "cs341-illinois/coursebook": "伊利诺伊大学开源的系统编程入门教材，普通人可以用它免费学习计算机底层和系统编程。",
+ "NVIDIA/OpenShell": "英伟达推出的让自主 AI 代理安全、私密运行的环境，普通人可以用它更放心地让 AI 自动执行任务而不泄露数据。",
+ "pablostanley/yoinks": "一个在终端里下载任意视频的小工具，没有乱七八糟的广告，普通人可以用它干净地保存网上视频。",
+ "mvschwarz/openrig": "把多个 AI 编程助手组成一个有分工、能长期协作的团队，普通人可以用它搭建自己的 AI 助手团队来推进项目。",
+ "HunxByts/GhostTrack": "一个用来追踪手机号或位置的工具，普通人可以在合法授权下查询相关位置信息，但要注意别用来侵犯别人隐私。"
 }
