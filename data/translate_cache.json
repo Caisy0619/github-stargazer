@@ -1284,5 +1284,22 @@
  "NVIDIA/OpenShell": "英伟达推出的让自主 AI 代理安全、私密运行的环境，普通人可以用它更放心地让 AI 自动执行任务而不泄露数据。",
  "pablostanley/yoinks": "一个在终端里下载任意视频的小工具，没有乱七八糟的广告，普通人可以用它干净地保存网上视频。",
  "mvschwarz/openrig": "把多个 AI 编程助手组成一个有分工、能长期协作的团队，普通人可以用它搭建自己的 AI 助手团队来推进项目。",
- "HunxByts/GhostTrack": "一个用来追踪手机号或位置的工具，普通人可以在合法授权下查询相关位置信息，但要注意别用来侵犯别人隐私。"
+ "HunxByts/GhostTrack": "一个用来追踪手机号或位置的工具，普通人可以在合法授权下查询相关位置信息，但要注意别用来侵犯别人隐私。",
+ "superplanehq/superplane": "一个开源工具，能帮你把一次性的自动化或工程任务快速搞定，不用复杂编程。",
+ "jianruntech/geo-score": "帮你检查 AI 搜索引擎会不会引用你的网站、目前有没有引用，并免费给出 0 到 100 分，还能每周跟踪在 OpenAI、Perplexity 等平台上的引用情况。",
+ "morluto/rea": "让你用 AI 助手拆解和分析各种软件，搞懂它们是怎么运行的，从普通应用到底层程序都行。",
+ "PurpleDoubleD/locally-uncensored": "一个免费开源的全能本地 AI 工作室，把聊天、图片和视频生成、编程助手都装进一个桌面应用，普通人可以在 Windows 或 Linux 电脑上直接用。",
+ "dipakkr/awesome-ai-engineering": "一份给想学 AI 开发的人准备的资源清单，整理了教程、学习路线、工具和练手项目，普通人可以照着入门。",
+ "n24q02m/notion": "让 AI 助手用 Markdown 的方式帮你管理 Notion，一次就能处理页面、表格、内容和评论。",
+ "opennote-org/opennote": "一个自带 AI 的笔记应用，能帮你记录、整理和查找笔记。",
+ "dineug/erd-editor": "用画图的方式设计数据库，能导入现有结构，并导出建表语句和 22 种语言的代码，网页、Google Drive 和 VS Code 里都能用。",
+ "urlaubsverwaltung/urlaubsverwaltung": "一个开源、能自己搭建的团队请假管理工具，用来处理休假申请、病假记录和加班。",
+ "urlaubsverwaltung/zeiterfassung": "一个开源、能自己搭建的团队工时记录工具，用来打卡上下班、计时、填写工时表并导出 CSV 报表。",
+ "LosaLosSantos/aurelio-finance": "一个开源的个人理财应用，自带 AI 理财顾问，帮你在自己电脑上追踪资产、投资、基金、现金和债务。",
+ "plainhub/plain-app": "一个开源应用，让你用电脑浏览器安全地管理手机，查看文件、照片、联系人、短信和通话记录等。",
+ "Anil-matcha/open-spaces": "一个免费开源的 ChatGPT Spaces 替代品，能自己搭建，用来和别人共享 AI 页面和对话。",
+ "boykopovar/AnyPS5": "一个把 PS5 程序自动搬到 Linux 和 Windows 电脑上运行的工具。",
+ "tester-army/e2e": "一个帮你在网页和手机应用上自动模拟用户操作、检查功能是否正常的测试工具。",
+ "EpicGames/raddebugger": "一个给开发者用的图形化查错工具，能同时检查多个程序哪里出了问题。",
+ "danyuchn/asd-ste100-skill": "一个能装进 Claude Code 的小技能，套用简化技术英语规则，把含糊的英文改写成 AI 更容易理解的指令。"
 }
