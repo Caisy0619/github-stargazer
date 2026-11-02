@@ -1328,5 +1328,22 @@
  "storytold/pdfcraft": "用纯Rust从零写出来的开源PDF阅读器和编辑器，普通人可以用它免费打开、修改PDF文件。",
  "VonHoltenCodes/SlowBooks-Pro-2026": "免费开源的记账软件，能记流水账、开发票、算美国工资、管库存、连银行账单，桌面版还自带多人使用功能，小老板可以用它管账。",
  "designfuchen/word-atlas": "一个雅思背单词工具，7298个单词每个都配原创插画、英美发音、14596条例句和科学复习安排，免费开源无广告，普通人可以用它背雅思词汇。",
- "ai-job-search-dev/ai-job-search": "在你自己的电脑上运行的求职助手，基于Claude Code，帮你评估招聘职位、改简历、写求职信、准备面试，普通人可以用它更省力地找工作。"
+ "ai-job-search-dev/ai-job-search": "在你自己的电脑上运行的求职助手，基于Claude Code，帮你评估招聘职位、改简历、写求职信、准备面试，普通人可以用它更省力地找工作。",
+ "ParadevAI/Paradev": "让多个AI编程助手同时帮你写代码的编程工具，你可以用自己的账号订阅来运行它们，适合想提高开发效率的人。",
+ "JetBrains/thinkrail": "一个会根据你的工作习惯自动调整的轻量编程环境，能让你一边和AI聊天一边写代码，适合想轻松上手AI编程的人。",
+ "crisnahine/rails-ai-context": "给AI编程助手提供你Ruby网站真实信息的工具，避免它瞎猜代码结构，适合用AI维护Rails网站的人。",
+ "codeofaxel/Kiln": "把想法一步步做成3D打印模型并管理每个版本的开源工具，适合想用AI辅助设计并打印实物的人。",
+ "klarluft/gitwarren-app": "在你自己的电脑或服务器上做代码审查的桌面应用，代码在哪审查就在哪，适合不想把代码交给第三方的人。",
+ "AienTech/dossier": "一个自己搭建的求职助手，会根据你的资料自动写定制简历和求职信，适合正在找工作的人。",
+ "feder-cr/invisible_dots": "一个可自己搭建、不容易被网站反机器人系统识别的自动化工具，是OpenAI Dots和Grok Bot的替代品，适合想自己控制自动化操作的人。",
+ "xerj-org/xerj": "把代码、文档、日志、表格和PDF统一变成可搜索资料的工具，供AI和机器人快速查找，适合想给自己资料建智能搜索的人。",
+ "microsoft/qlib": "微软开源的用AI做量化投资研究的平台，从找想法到实际应用都能用，适合想研究股票等投资策略的人。",
+ "NPMscan/npmscan-action": "在合并代码前自动发现npm依赖里风险变化的检查工具，适合团队避免引入有问题的软件包。",
+ "sunlabuiuc/PyHealth": "一个用深度学习做医疗AI的工具箱，能处理病历、临床文本、信号和影像，适合研究医疗AI的人。",
+ "jacklandrin/OnlySwitch": "一个把菜单栏变成万能控制中心的macOS小工具，能自定义开关、看系统状态、用AI助手和遥控功能，适合想让Mac更好用的人。",
+ "nilsteampassnet/TeamPass": "供团队自己搭建的共享密码管理器，能按文件夹控制权限并加密保存密码，适合公司或小组安全共享账号。",
+ "meta/docusaurus": "一个容易维护的开源文档网站搭建工具，适合普通人给自己的项目或知识库做漂亮网站。",
+ "emilkowalski/skills": "给设计师和工程师准备的一套实用技能资源，适合想提升设计和开发能力的人。",
+ "Nutlope/hallmark": "一个防止AI生成设计变得千篇一律的设计技能，适合用Claude Code、Cursor或Codex做东西的人。",
+ "AgriciDaniel/claude-seo": "一个帮Claude Code做网站搜索优化的通用技能包，覆盖技术检查、内容可信度、结构化数据和AI搜索准备，适合想提升网站搜索表现的人。"
 }
